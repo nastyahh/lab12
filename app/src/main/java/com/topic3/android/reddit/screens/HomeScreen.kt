@@ -124,6 +124,7 @@ fun HomeScreen(viewModel: MainViewModel) {
             JoinedToast(visible = isToastVisible)
         }
     }
+
 }
 @Composable
 private fun TrendingTopics(
